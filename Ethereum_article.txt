@@ -1,0 +1,3 @@
+https://ethereum.stackexchange.com/questions/550/which-cryptographic-hash-function-does-ethereum-use
+https://ethereum.stackexchange.com/questions/14/what-proof-of-work-function-does-ethereum-use
+https://www.vijaypradeep.com/blog/2017-04-28-ethereums-memory-hardness-explained/
